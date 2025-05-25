@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OSP</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="all">All</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="to">To</string>
+</resources>
